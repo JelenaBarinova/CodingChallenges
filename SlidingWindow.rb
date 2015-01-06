@@ -1,4 +1,4 @@
-def SlidingWindow(array, d)
+def slidingWindow(array, d)
     min_queue = Array.new()
     max_queue = Array.new()
 

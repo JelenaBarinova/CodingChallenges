@@ -1,5 +1,5 @@
 require_relative '../Algorithms/Sorts/QuickSort'
-def PythagoreanTriplet (array)
+def pythagoreanTriplet (array)
 
     array = QuickSort(array)
     res = Array.new()

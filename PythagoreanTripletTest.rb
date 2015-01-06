@@ -7,7 +7,7 @@ class TestPythagoreanTriplet < Test::Unit::TestCase
 
     end
     def test_returns_triplet_given_small_array
-        arr = PythagoreanTriplet([9, 2, 3, 4, 8, 5, 6, 10])
+        arr = pythagoreanTriplet([9, 2, 3, 4, 8, 5, 6, 10])
        	res = arr.include?([3, 4, 5]) and arr.include?([6, 8, 10])
 
         assert_equal(true, res)
@@ -17,7 +17,7 @@ class TestPythagoreanTriplet < Test::Unit::TestCase
         array = Array.new(1000.times.map{ Random.rand(10000) })
         
         t1 = Time.now
-        arr = PythagoreanTriplet(array)
+        arr = pythagoreanTriplet(array)
         t2 = Time.now
 
         delta = t2 - t1

@@ -8,7 +8,7 @@ class TestSSlidingWindow < Test::Unit::TestCase
     end
     def test_sliding_window
 
-        res = SlidingWindow([2, 3, 4, 8, 5], 3)
+        res = slidingWindow([2, 3, 4, 8, 5], 3)
         assert_equal(5, res)
     end
 
@@ -17,7 +17,7 @@ class TestSSlidingWindow < Test::Unit::TestCase
         array = Array.new(100000.times.map{ Random.rand(100000) })
         
         t1 = Time.now
-        res = SlidingWindow(array, 100000)
+        res = slidingWindow(array, 100000)
         t2 = Time.now
 
         delta = t2 - t1
@@ -31,7 +31,7 @@ class TestSSlidingWindow < Test::Unit::TestCase
         array = Array.new(100000.times.map{|i| i})
         
         t1 = Time.now
-        res = SlidingWindow(array, 1000)
+        res = slidingWindow(array, 1000)
         t2 = Time.now
 
         delta = t2 - t1
