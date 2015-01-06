@@ -24,4 +24,15 @@ class TestFindK < Test::Unit::TestCase
         
         assert_equal(6, res)
     end
+    def test_for_very_big_array
+        array = Array.new(100000.times.map{ Random.rand(100000) })
+        k = Random.rand(100000)
+        
+        res = findK(array, k)
+        
+        array.sort()
+        act = array[array.size - k]
+
+        assert_equal(act, res)
+    end
 end
