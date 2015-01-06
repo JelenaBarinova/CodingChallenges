@@ -1,7 +1,6 @@
 require_relative 'FindKthLargestElement'
 require "test/unit"
 
-
 class TestFindK < Test::Unit::TestCase
     def setup
 
