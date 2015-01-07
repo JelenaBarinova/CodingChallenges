@@ -14,7 +14,7 @@ def isSymmetry (array)
     key, value = points.first
     value = value.sort()
     
-    line_of_symmetry = value[0] + ((value[value.size - 1] - value[0]) / 2.0).ceil.to_i
+    line_of_symmetry = value.first + ((value.last - value.first) / 2.0).ceil.to_i
 
     points.each do |key, value|        
         n = value.size - 1
