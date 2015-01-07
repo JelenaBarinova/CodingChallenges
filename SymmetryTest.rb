@@ -29,4 +29,10 @@ class TestSymmetry < Test::Unit::TestCase
         
         assert_equal(false, res)
     end
+    def test_for_seriogas_points
+        arr = [[-1, 2], [0, -2], [2, -2], [3, 2], [3, 1], [-1, 1]]
+        res = isSymmetry(arr)
+        
+        assert_equal(true, res)
+    end
 end
