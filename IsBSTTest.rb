@@ -20,6 +20,18 @@ class TestIsBST < Test::Unit::TestCase
        
         assert_equal(true, res)
     end
+    def test_returns_true_for_BST_
+        @tree.put(6, 1)
+        @tree.put(4, 3)
+        @tree.put(2, 4)
+        @tree.put(5, 1)
+        @tree.put(8, 1)
+        @tree.put(9, 2)
+
+        res = isBST(@tree.root)
+       
+        assert_equal(true, res)
+    end
     def test_returns_false_for_not_BST
         @tree.put('D', 1)
         @tree.put('B', 3)
