@@ -1,0 +1,56 @@
+Microsoft’s most asked interview questions
+4) Given two linked lists that represent two big numbers (numbers that can not be stored in an int or long long int), write a function that adds the numbers and store the result in a third list.
+Variations of above question like subtract two numbers or multiply two numbers represented by linked lists.
+
+5) Print last 100 lines of a big file or big string.
+
+6) Clone a linked list with next and arbit(or random) pointer.
+
+7) Connect nodes at same level.
+
+8) Least common ancestor of a binary tree or a binary search tree.
+
+9) Test case questions like test an ATM.
+
+10) Run length encoding.
+
+11) Detect cycle in a linked list.
+
+12) Given a sorted array of size n. Each element in array is unique and lies from 1 to n+1. Find the missing element. Write code and test cases for the same.
+
+13) Check if a binary tree is balanced.
+
+14) Validate a given IP address.
+
+15) Why do you want to join Microsoft?
+
+16) Two of the nodes of a BST are swapped. Correct the BST.
+
+17) Draw a circle without floating point arithmetic
+
+Amazon’s most asked interview questions
+May 15, 2014
+
+3) Binary tree traversal questions like left view, right view, top view, bottom view, maximum of a level, minimum of a level, children sum property, diameter etc.
+
+4) Convert a BST into a DLL and DLL to BST in place.
+
+5) Vertical traversal of a Binary Tree.
+
+6) Lowest Common ancestor in a Bianry Search Tree and Binary Tree.
+
+7) Implement a stack with push(), pop() and min() in O(1) time.
+
+8) Reverse a linked list in groups of size k.
+
+9) Given two numbers represented by two linked lists, write a function that returns sum list.
+
+10) Rotate a matrix by 90 degree.
+
+11) Some stack based questions like stock span problem, next greater element.
+
+12) Some Dynamic Programming problems like maximum sum subarray, maximum sum subarray such that no elements are consecutive, edit distance, assembly line scheduling.
+
+13) Why Amazon?
+
+14) Questions about projects done in previous company or final year.

@@ -1,0 +1,153 @@
+Summer camp: idea and reasoning
+And here comes another crazy idea I am going to implement – I call it “Summer camp”.
+
+REASONING
+MallorcaI believe that happy people work better. What makes people happy? Work, vacations and the sun. So I thought why not combining all these 3 components into the one. That’s how I came up with the idea of the summer camp. Besides, I’ve heard similar experiments went well for GitHub (here is a talk of Ryan Tomayko on Distributed management) and even more examples from Nimax.
+
+WHAT IS “SUMMER CAMP”?
+So to the essence. I plan to take my team to work offsite for 10 days in September somewhere summer stays longer. After initial brainstorming with the team due to our wish to keep it low cost for the beginning, we’ve selected Mallorca island. So we will book a villa, take our families or friends with us and go there to accomplish the mission. I don’t know yet what the mission will be about, it might be some new cool feature to our product or some grand refactoring of current solution or anything else, the main requirement – it should be significant, valuable and needful.
+
+I will try to go deeper into organizational details in my further posts.
+
+WHAT DO I EXPECT FROM IT?
+There are lots of benefits I see in this experiment, but the main are:
+
+Performance. I think the team performance should increase because of the focus on one major task for 10 days.
+Teambuilding. I believe the effect will be strong. Whole team located in one place for 10 days! We’ll really be more connected to each other.
+Happiness. Increased happiness and motivation. I believe that after such work vacation there will be more energy and will to work.
+I’ll make series of blog posts on how it goes further with this idea. Keep on following me :)
+
+P.S.: Have you tried something similar? How it went?
+
+Summer camp: setting the stage
+This is a second post of a “Summer camp” series. In the first post I’ve wrote about initial idea and the main reasoning. Here is a detailed preparation overview.
+
+POLL AND APPROVALS
+So what did I start from? First I’ve mentioned this idea to my pairs and one representative of top management “Wouldn’t it be cool to organize such an offsite for our teams?”. To my surprise everyone liked and supported this idea.
+
+My next step after getting this “informal approval” was to create a short poll (I just love short polls, it’s easy, you get fast feedback, you have all responses in one place). Here are the questions, I asked:
+
+Do you like the idea of “Summer camp”? (Yes | No)
+Will you participate? (Yes | No)
+What place would you like to work from? (Spain Mallorca | Spain Tenerife | Lithuania Nida | Greece Kos | Greece Rhodes | Suggest your place)
+How many people would travel with you: spouse, children, friends?  (You will need to pay 100% of expenses for each additional person)
+How long would you like to stay in summer camp? (3 days | 7 days | 14 days | Specify your own value)
+When would you like to go to summer camp? (August | September | October | Specify your own value)
+How many of your personal money would you be able to pay for your stay and flight tickets? (0 | Up to 500 LTL | Up to 1000 LTL | Up to 1500 LTL | Specify your own value)
+After analyzing responses it became clear: we are going to Mallorca for 10 days. I made a skin-deep research of villas and flight tickets to calculate our expenses.
+
+We decided to split all costs this way: company pays for villa’s rental and flight tickets and we personally pay for transfer, car rental, gas expenses, food, drinks and basically everything else :).
+
+With cost list I addressed our top management and easily got approval! I even got suggestions and more ideas how to organize it and what risks we might have.
+
+BOOKING
+After all approvals were received, I once again asked who would attend. Together with the team we’ve started searching for appropriate villa with WiFi and rooms for each of us, somewhere not very far from the see, with spacious area to work in. We selected one on www.airbnb.com, I contacted the owner to discuss details. We booked it.
+
+It was much faster and easier with the flight tickets – we just found them and booked.
+
+IN PROGRESS
+Now we are working with product owner on defining our mission – what will we create offsite? And the last thing left to do before packing – create a sightseeing plan :)
+
+11 days left! I plan to write next blog post in this series from Mallorca, so stay tuned :)
+
+Summer camp: off to Mallorca
+So as you all probably know from my previous posts (Idea and reasoning and Setting the stage) my team is going to Mallorca to work for 10 days.
+
+We are leaving Today. I’ll keep writing a journal and share with you how it goes, but meanwhile you can follow me on Instagram to see whole story in pictures :)
+
+Summer camp: the journal (1, 2, 3 days)
+task boardThis is a journal of a summer camp I have with my team in Mallorca. Please read previous posts for more information if you just joined this blog: Idea and reasoning, Setting the stage, Off to Mallorca.
+
+DAY 1 – SMOOTH | LONG TRIP | NO INTERNET
+Basically the second part of the day was fully dedicated for travel. We had quite a long flight from Kaunas to Palma – ~4hours. Everything went very well, all the team members were organized, no rush, no stress – very smooth trip.
+
+First disappointment – as we came, there were no internet in the house, maybe due to the thunder and lightning, but the owner assured he would arrange fixing next day in the morning.
+
+DAY 2 – SELF-ORGANIZED | SLOW BEGGING | VICTORY
+This day was really strange, but in general better than expected. We had to get used to new environment, new people (wives and friends of team members), new rhythm. The internet worked from time to time, but everyone was calm and trying to adopt to given environment and conditions. Not much of working though. Product director gave informal lightning talk, followed by Q&A session. So the theme for 10 days established.  After a short break we gather for planning, overviewed the work needs to be done, organized task board. Due to previous estimations this work should take 1 month. Everyone is engaged and believe that we can make most of it here. We’ll see how it will go. This day ended with a good dinner at local restaurant and then perfect basketball game of Lithuanian team in Eurobasket. Už Lietuvą, vyrai!
+
+DAY 3 – WORK | SUMMER HEAT | BBQ
+Beautiful morning. I like waking up early when others are still asleep, kind a magic time for me to make a breakfast while listening to nice music. Enjoyed morning sun and breakfast – perfect start for a new day. Today we worked hard all the day long starting from 9 am with stand-up and ending the work day with a successful release to production at 7 pm with a great “swimming break” at a local beach. Now getting ready for BBQ burgers in the yard.
+
+Summer camp: the journal (4, 5, 6 days)
+This is a journal of a summer camp I have with my team in Mallorca. Please read previous posts if you just joined this blog: Idea and reasoning, Setting the stage, Off to Mallorca and 1, 2 and 3 days Journal.
+
+DAY 4 – WORK | 3 GOT FLU | CELEBRATION
+So the 4th day passed. Full of work, swimming in the sea instead of a lunch, watching basketball game in the middle of the day and then working till 8 o’clock. Completely different schedule compared to ordinary day in the office. I like it a lot. Guys don’t express their emotions much, but I think they like it here as well. A bit sad thing is that 3 of 6 team members got some kind of flu, so they could not enjoy the summer here 100%, I mean swimming and stuff. After a work we went in a restaurant in Sa Rapita (the small town nearby) to celebrate developer’s day.
+
+DAY 5 – CAVES | LIGHTHOUSE | LATE TALKS BY THE POOL
+the teamSaturday! This day was dedicated for sightseeing only. We’ve traveled Southeast to visit caves del Drac first, and then headed to North to drive some serpentines and walk on the edge of rocky mountains in Cap de Formentor. On our way home we stopped for an hour in Alcudia for late lunch or early dinner – delicious food, good mood. Not much of a work, but lots of teambuilding.
+
+DAY 6 – MORNING COFFEE IN SOLLER | BEAUTIFUL VIEWS | EVEN MORE SERPENTINES
+Another day off. From the early morning (9 am) we took off for more sightseeing. Starting with a beautiful small old town – Soller. We spent there an hour browsing narrow streets of old town, then had a coffee with croissants from the local bakery and headed to  Sa Calobra very nice beach. After 35 km of serpentines we finally reached it. It was beautiful beach, paradise really worth going that way. We had to return till 6 pm – another basketball game by Lithuanian team, another one we won. Happy with lots of impressions form Today’s sightseeing, with positive emotions from good game by Lithuanians, but a bit tired we chatted for a couple of hours by the pool and got to sleep happily exhausted.
+
+Summer camp: the journal (7, 8, 9 days)
+This is a journal of a summer camp I have with my team in Mallorca. Please read previous posts if you just joined this blog: Idea and reasoning, Setting the stage, Off to Mallorca, 1, 2, 3 days Journal and 4, 5, 6 days Journal.
+
+DAY 7 – BACK TO WORK | CACTUS GARDEN | BBQ PARTY
+Task boardToday realized that my shiny new HP Folio notebook has pour network adapter. Everyone around has got internet, meanwhile I have to use internet on a phone or share data roaming from my Nokia to pc. There was internet even on my Kindle, but not on my notebook. Angry. Work wise “ordinary” day – guys were coding quietly, our product owner  and me were having a couple of skype calls, wrote several emails.
+
+During the lunch this time we had a swim in our pool, that was nice :) and very convenient for a short break. For dinner Today we had BBQ – beautiful.
+
+DAY 8 – FIXED INTERNET | DELICIOUS CROISSANTS | CALM EVENING
+Well.. The morning started with fixing WIFI (needless to say that there were we, who just broke it before). So after spending 30 minutes on fixing we continued as always: standup, morning coffee this time with fresh made croissants from local bakery (mm…yummy) and work. Same as Yesterday: guys coding, discussing new features, me – skype calling, reading and writing emails. This time I even got to do a SQL task :) dropping schema and all related objects was awesome. Also Today it seemed not very realistic to complete all the task that left for us, but the team said – they would do it. We’ll see.
+
+DAY 9 – PERFECT BREAKFAST | WORK | PALMA
+Map
+
+It was very hot Today. We started the day with delicious croissants from local bakery (why they do not have such bakeries in Lithuania?). Then had deep dive into the work with some breaks for swimming in the pool. Internet frustrates us from time to time and really slows us down. Some assignments are simple not possible to accomplish without a connection, with slow connection they last for ages. The tasks are moving with the speed of turtles on a task board.
+
+After the work Today we went to Palma to visit a city, castles, cathedrals, browse old streets. We had a great walking tour around Palma old town for a couple of hours. This warm beautiful evening was finished with a dinner at Hard Rock Café Mallorca. All happy and tired returned to our villa.
+
+
+Summer camp: the journal (10, 11, 12 days)
+This is a journal of a summer camp I am having with my team in Mallorca. Please read previous posts if you just joined this blog: Idea and reasoning, Setting the stage, Off to Mallorca, 1, 2, 3 days Journal, 4, 5, 6 days Journal and 7, 8, 9 days Journal.
+
+DAY 10 – CREPES | WORK | BASKETBALL
+No trips were planned for Thursday. Whole day dedicated for work only. Today realized how it was really hard to concentrate on one feature at a time. You always depend on someone and someone depends on you. In our case I’m talking about other teams, they need to deliver something and they need you to deliver a part of it. Wouldn’t it be cool to be able to do everything yourself, not depending on each other? The question is how to achieve this in a big organization (our is 250 employees big)?
+
+Back to summer camp. So Today we worked all day long till the basketball game. Then all together cheered for our team. Watching basketball is a great teambuilding activity (of course everyone in a team should be a fan of the game, it’s easy in Lithuania – everyone is a fan of basketball). Watching a game together makes you united and seeking for one shared goal, same as at work .
+
+grapesDAY 11 – WINE TOUR | WORK | BASKETBALL
+Today we worked for some hours in the morning and then went for vineyard tour and tasting. That was awesome, we visited one small vineyard and wine making facilities; listened to the stories of growing, harvesting and making wine; ate delicious Mallorcan food with several varieties of local wines. Very nice experience. I think everyone of us liked it.
+
+After wine tasting we returned to work. Today is the last day for coding. Review and retro are planned for Tomorrow.
+
+After the work – basketball again. Hope this game will be just as good as previous ones.
+
+DAY 12 – REVIEW | RETRO | IT’S OVER
+This too shall passbye-bye mallorca
+I love this proverb, it indicates that all negative as well as positive conditions are temporary. Our summer camp is over. We are packed and ready to return home. And here is a place for another great proverb
+
+The end of something is the beginning of something else
+Though the summer camp is finished, we are coming back home and there definitely more to come for us.
+
+Long story making short – I can say I liked this summer camp a lot. Though it was first try, I think it was best as it could be. There were good and bad things about it (I think I will gather all pros and cons in a separate blog post),  but one I can say for sure – all these days I felt comfortable around these people – and that’s how it always should be in a team.
+
+Summer camp: results – 2x performance, but feels like on vacations
+1 coding in a train to airport
+Coding on a train to airport
+You’ve probably followed my journal about summer camp (if not – here it is) and noticed that there were not much about work, but more about fun. That was the idea of a journal – to find something special in every day. I bet it wouldn’t had so many visitors if I were pointing out only work part. Imagine how it would look like: day 1 – we were coding, day 2- still we were coding, day 3 – we were coding again and so on. Not so engaging as croissants, wine tasting tour or basketball championship (by the way – hurray!! We won silver!).
+
+2 coding in airport
+Coding in an airport
+So this post is mostly about what left behind my journal.
+
+On the last day of summer camp we made a review and retrospectives of what we’ve done during these sunny days. It was a nice thing to find out that during those 8 working days we’ve manage to accomplish twice as much work as we usually do in Vilnius in 8 days.  But this was not a surprise, because guys were coding all the time except those moments that were described in journal. Literally, they were coding in a train to airport, in airport, on a plane, during basketball match, after the dinner and so on. But not only this made our performance better I think. There are a couple of possible reasons.
+
+You’ll get more done, one task at a time, than you could have even imagined when you were “multitasking”
+It’s a quote from Jason Fitzpatrick blog post: “A Case for Singletasking: The One-Task-At-a-Time Method”. Exactly the same focus we reached off-site: we had no meetings, minimum interactions with other teams and colleagues, no switching between projects. For 5 days (out of 8 working days) we were concentrated on one feature only. This I think influenced  our performance a lot.
+
+ I firmly believe that people should strive to integrate work and life
+A quote by Jurgen Appelo from a blog post: “Work-Life Integration and Work-Play Balance“, where he writes about taking next step out of work-life balance to work-life integration. Working and living in a villa all together was I think the best work-life integration possible. Our lifestyle there was similar to freelancers. And with freelancers I thinks it’s the matter of motivation: if you are interested (this was true in our case) – you work all your possible time.
+
+3 lightning talk by product director
+Lightning talk by product director
+Most were interested how would it go with spouses around, would we be able to concentrate for work enough. I think we got lucky with our spouses :) – we were working all together but each his/her own job: one was writing her master thesis, one was busy with a child, others were just doing their everyday jobs remotely.
+
+6 coding while watchin basketball
+Coding while watching basketball game
+Now I can say this was a successful experiment. We did twice more work as usual, people are happy, we enjoyed sun, we visited beautiful places – what not to like about it? Moreover, we became more connected as a team, now we have our own stories we share. Though it took lots of energy and money to organize, I am sure – I’ll try it once again: maybe next year, same team, different scenery, better internet connection.
+
+Bye-bye! 
+Thanks for reading this.
