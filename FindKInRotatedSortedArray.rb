@@ -7,10 +7,9 @@ def findK (arr, k)
     
     fold = findAFold(arr, 0, n)
     if fold.nil? then return find(arr, k, 0 , n) end
-
-    res = find(arr, k, 0, fold)
-    if !res.nil? then 
-        return res 
+    
+    if k >= arr.first and k <= arr[fold] then
+        return find(arr, k, 0, fold)
     else 
         return find(arr, k, fold + 1, n) 
     end
