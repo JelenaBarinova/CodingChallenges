@@ -1,5 +1,7 @@
 =begin
-
+Given some text lines in one fil or string, each line is separated by ‘\n’ character. 
+Print the last K lines. 
+If number of lines is less than K, then print all lines.
 =end
 require_relative "../Algorithms/DataStructures/Queue"
 def printLastLines (stream, k)
