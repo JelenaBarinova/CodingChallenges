@@ -26,4 +26,11 @@ class TestStringOfSubstring < Test::Unit::TestCase
         
         assert_equal(true, res)
     end
+    def test_for_string_of_repeating_letter
+        
+        str = "xxxxxxxx"      
+        res = isStringOfSubstring(str)
+        
+        assert_equal(true, res)
+    end
 end
